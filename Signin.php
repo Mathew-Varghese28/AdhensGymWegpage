@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body background="https://images-na.ssl-images-amazon.com/images/I/613N%2BuWn9ZL._AC_SL1127_.jpg"  style="height: 100%; background-position: center; background-repeat: no-repeat; background-size: cover;">
+<body background="https://images.pexels.com/photos/4753987/pexels-photo-4753987.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"  style="height: 100%; background-position: center; background-repeat: no-repeat; background-size: cover;">
     <nav class="navbar navbar-light bg-light">
         <div class="container-fluid">
           <span class="navbar-text">
